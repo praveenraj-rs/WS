@@ -1,4 +1,6 @@
 #!/bin/bash
 
-export PATH=/home/praveenrajrs/notes/linux_ws:$PATH
-alias ws='cd /home/praveenrajrs/notes/linux_ws'
+export PATH=~/WS:$PATH
+alias ws='cd ~/WS'
+alias upd='sudo apt updata;sudo apt upgrade'
+alias dk="cd ~/Desktop"
