@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo 'export PATH=~/WS:$PATH' >> $HOME/.bashrc
+echo 'source ~/WS/aliases' >> $HOME/.bashrc

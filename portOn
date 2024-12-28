@@ -1,4 +1,0 @@
-#!/bin/bash
-
-sudo chmod a+rwx /dev/ttyUSB0 
-kill -9 $PPID # To close the terminal

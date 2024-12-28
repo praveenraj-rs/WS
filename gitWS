@@ -30,4 +30,3 @@ if [ -n "$(git status --porcelain)" ]; then
 else
     echo "No changes detected."
 fi
-
